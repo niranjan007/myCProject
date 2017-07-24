@@ -14,4 +14,5 @@ int main()
   display();
   printf("Adiition of %d and %d is %d\n",x,y,add(x,y));
   printf("Subtraction of %d and %d is %d\n",x,y,sub(x,y));
+  printf("Product of %d and %d is %d\n",x,y,mul(x,y));
 }
